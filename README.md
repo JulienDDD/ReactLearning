@@ -21,17 +21,17 @@ The goal is to provide a simple and customizable portfolio structure that can be
 
 ###  Installation
 1. **Clone this repository**:
-
+```
 git clone https://github.com/JulienDDD/ReactLearning
-
+```
 2. **Install dependencies**:
-
+```
 npm install
-
+```
 3. **Run the development server:** :
-
+```
 npm run dev
-
+```
 ### Customization
 This is a generic portfolio template, meaning the content is placeholder text (Lorem Ipsum).
 You can replace the text, images, and links with your own information to personalize the template.
@@ -58,17 +58,17 @@ L'objectif est de proposer une structure simple et personnalisable pour aider le
 
 ### Installation
 1. **Cloner ce dépôt :**
-
+```
 git clone https://github.com/JulienDDD/ReactLearning
-
+```
 2. **Installer les dépendances :**
-
+```
 npm install
-
+```
 3. **Lancer le serveur de développement :**
-
+```
 npm run dev
-
+```
 
 ### Personnalisation
 Ce projet est un template générique de portfolio, donc le contenu est du texte factice (Lorem Ipsum).
