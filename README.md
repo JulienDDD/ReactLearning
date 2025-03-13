@@ -1,12 +1,76 @@
-# React + Vite | Portfolio
+# Portfolio Template - React & Tailwind CSS (Mini Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## English 🇬🇧
 
-Currently, two official plugins are available:
+###  About the Project
+This project is a portfolio template created as part of my personal learning journey in **React and Tailwind CSS**.  
+The goal is to provide a simple and customizable portfolio structure that can be used by developers to showcase their work.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###  Key Features
+- **Fully responsive design**
+- **Animated gradient background**
+- **Pre-built sections: Hero, Projects, Contact**
+- **Smooth scrolling navigation**
+- **Dynamic project buttons with external links**
 
-## Expanding the ESLint configuration
+###  Technologies Used
+- **React.js** (with Vite)
+- **Tailwind CSS**
+- **JavaScript**
+- **HTML & CSS**
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+###  Installation
+1. **Clone this repository**:
+
+git clone https://github.com/JulienDDD/ReactLearning
+
+2. **Install dependencies**:
+
+npm install
+
+3. **Run the development server:** :
+
+npm run dev
+
+### Customization
+This is a generic portfolio template, meaning the content is placeholder text (Lorem Ipsum).
+You can replace the text, images, and links with your own information to personalize the template.
+
+
+### Français 🇫🇷
+
+### À propos du projet
+Ce projet est un template de portfolio créé dans le cadre de mon apprentissage personnel de **React et Tailwind CSS**.
+L'objectif est de proposer une structure simple et personnalisable pour aider les développeurs à présenter leurs projets.
+
+### Fonctionnalités principales
+- **Design entièrement responsive**
+- **Arrière-plan animé avec un dégradé**
+- **Sections pré-construites : Accueil, Projets, Contact**
+- **Navigation fluide avec défilement automatique**
+- **Boutons interactifs pour rediriger vers des liens externes**
+
+### Technologies utilisées
+- **React.js (avec Vite)**
+- **Tailwind CSS**
+- **JavaScript**
+- **HTML & CSS**
+
+### Installation
+1. **Cloner ce dépôt :**
+
+git clone https://github.com/JulienDDD/ReactLearning
+
+2. **Installer les dépendances :**
+
+npm install
+
+3. **Lancer le serveur de développement :**
+
+npm run dev
+
+
+### Personnalisation
+Ce projet est un template générique de portfolio, donc le contenu est du texte factice (Lorem Ipsum).
+Vous pouvez remplacer le texte, les images et les liens avec vos propres informations pour l'adapter à vos besoins.
+
