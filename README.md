@@ -37,7 +37,7 @@ This is a generic portfolio template, meaning the content is placeholder text (L
 You can replace the text, images, and links with your own information to personalize the template.
 
 
-### Français 🇫🇷
+## Français 🇫🇷
 
 ### À propos du projet
 Ce projet est un template de portfolio créé dans le cadre de mon apprentissage personnel de **React et Tailwind CSS**.
